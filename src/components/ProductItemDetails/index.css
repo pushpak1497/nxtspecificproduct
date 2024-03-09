@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.products-detail-container {
+  display: flex;
+  padding: 30px;
+  min-height: 100vh;
+}
+.similar-list-container {
+  display: flex;
+  list-style-type: none;
+}
+.similar-heading {
+  margin-left: 30px;
+}
+.details-img {
+  width: 50%;
+}
+.details-text-container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+}
+.hr-line {
+  width: 80%;
+}
